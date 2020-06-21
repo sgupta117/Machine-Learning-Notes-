@@ -13,6 +13,10 @@
 
 3) Finding an outlier in a dataset using Python : https://www.youtube.com/watch?v=rzR_cKnkD18&feature=youtu.be
 
+- Using Z Score.
+-Using IQR.
+- Using Boxplot and Scatter Plot.
+
 4) Handling Imbalanced dataset:
  - https://www.youtube.com/watch?v=OIjV_V8CpYs
  - https://www.youtube.com/watch?v=YMPMZmlH5Bo
