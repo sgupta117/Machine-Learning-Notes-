@@ -38,3 +38,12 @@
 10) ‌Feature scaling and where it matters (which algorithms) - where we are using Distance matrices (knn,  kmeans, PCA, Gradient Descent.) : https://youtu.be/goMoUHl8q6c
 
 11) Multiple Linear Regression using python and sklearn : https://www.youtube.com/watch?v=5rvnlZWzox8&feature=youtu.be
+
+12) PCA in Machine Learning:
+
+PCA in machine learning. 
+-1) https://youtu.be/OFyyWcw2cyM
+
+-2)https://builtin.com/data-science/step-step-explanation-principal-component-analysis
+
+-3) https://www.dezyre.com/data-science-in-python-tutorial/principal-component-analysis-tutorial#:~:text=The%20main%20idea%20of%20principal,up%20to%20the%20maximum%20extent.&text=As%20a%20layman%2C%20it%20is%20a%20method%20of%20summarizing%20data
