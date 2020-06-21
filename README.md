@@ -37,4 +37,4 @@
 
 10) ‌Feature scaling and where it matters (which algorithms) - where we are using Distance matrices (knn,  kmeans, PCA, Gradient Descent.) : https://youtu.be/goMoUHl8q6c
 
-11) 
+11) Multiple Linear Regression using python and sklearn : https://www.youtube.com/watch?v=5rvnlZWzox8&feature=youtu.be
